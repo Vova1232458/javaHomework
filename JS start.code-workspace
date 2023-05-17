@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projectHom"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS start"
+	}
+}
